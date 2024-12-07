@@ -1,0 +1,40 @@
+.item
+{
+    text-align: center;
+}
+.yarik
+{
+    color:rgb(2, 187, 187);
+    text-decoration: underline;
+}
+.item-list
+{
+    margin-left: 625px;
+}
+.hitler
+{
+    margin-left: 450px;
+    margin-top: 50px;
+}
+.hitler-item
+{
+    text-align: center;
+    font-size: large;
+    margin-top: 50px;
+}
+.daun
+{
+    color: cadetblue;
+    text-decoration: underline
+}
+.hamster
+{
+    margin-left: 290px;
+    margin-bottom: 50px;
+}
+.button
+{
+    background-color:chartreuse;
+    border-width: 1px;
+    border-radius: 5px;
+}
